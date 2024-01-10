@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Games Shop]
 
+## [0.0.2] - 2024-01-10
+
+### Fixed
+
+- Div container centralizada utilizando magin:auto.
+
 ## [0.0.1] - 2024-01-10
 
 ### Added

@@ -34,6 +34,7 @@ header nav li a:hover {
 
 header .container {
     display: flex;
+    margin: auto;
     align-items: center;
     justify-content: space-between;
 }
