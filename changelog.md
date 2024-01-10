@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Games Shop]
 
+## [0.0.4] - 2024-01-10
+
+### Added
+
+- Seção sobre: formulário, botão com alteração no hover, inputs obrigatórios, mudança de cor do input:focus
+
 ## [0.0.3] - 2024-01-10
 
 ### Added
